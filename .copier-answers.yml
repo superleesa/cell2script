@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.2.4
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: 6world4trigger@gmail.com
+author_name: satoshi
+data_format: string
+file_extension: ''
+has_binder: true
+has_settings: false
+kind: frontend
+labextension_name: scripter
+mimetype: ''
+mimetype_name: ''
+project_short_description: A Jupyer Lab extension to quickly convert a cell to a script
+python_name: scripter
+repository: https://github.com/superleesa/cell2script.git
+test: true
+viewer_name: ''
+
